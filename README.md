@@ -1,7 +1,9 @@
 # About Me :
 
 Hi, I’m Jithu Shaji 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-shaji0) 
+
 •Embedded Software Engineer | AUTOSAR Specialist 
 
 Working in the automotive domain, focusing on embedded systems.
