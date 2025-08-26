@@ -2,17 +2,17 @@
 
 Hi, I’m Jithu Shaji 
 
+Embedded Software Engineer | AUTOSAR Specialist
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-shaji0) 
 
-•Embedded Software Engineer | AUTOSAR Specialist 
-
-Working in the automotive domain, focusing on embedded systems.
-
-Passionate about coding, debugging, and system-level design.
-
-Exploring RTOS and Linux driver development to strengthen low-level expertise.
-
-Always curious to go deeper into C programming and embedded fundamentals.
+  Working in the automotive domain, focusing on embedded systems.
+  
+  Passionate about coding, debugging, and system-level design.
+  
+  Exploring RTOS and Linux driver development to strengthen low-level expertise.
+  
+  Always curious to go deeper into C programming and embedded fundamentals.
 
 
 
