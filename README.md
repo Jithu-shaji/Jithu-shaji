@@ -13,8 +13,6 @@ Hi, I’m Jithu Shaji
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jithu-shaji&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithu-shaji&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jithu-shaji&icon=0&color=0)](https://visitcount.itsvg.in)
