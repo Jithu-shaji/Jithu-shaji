@@ -19,7 +19,9 @@ Embedded Software Engineer | AUTOSAR Specialist
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 
 ![](https://github-readme-stats.vercel.app/api?username=Jithu-shaji&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jithu-shaji&theme=dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jithu-shaji&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
