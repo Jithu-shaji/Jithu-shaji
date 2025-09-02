@@ -1,6 +1,6 @@
 # About Me :
 
-Hi, I’m Jithu Shaji 
+Hi, I’m Jithu
 
 Embedded Software Engineer | AUTOSAR Specialist
 
